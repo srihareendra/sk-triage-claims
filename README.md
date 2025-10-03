@@ -35,6 +35,6 @@ streamlit run app/streamlit_app.py
 ```
 # Flow Diagram
 
-![Claims Processing Flow](img/flow.png)
+![Claims Processing Flow](img/Flow.png)
 
 See `demo_script.md` for a ≤5 min walkthrough.
