@@ -1,0 +1,101 @@
+decision_id,claim_id,severity,fraud_risk,route_to,rationale,created_at
+1,1,MEDIUM,0.07,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-05-21
+2,2,LOW,0.18,OPERATIONS,"Routine claim, low risk indicators",2025-02-22
+3,3,MEDIUM,0.85,SIU,"Moderate risk, but consistent with prior claim data",2025-02-14
+4,4,MEDIUM,0.08,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-02-17
+5,5,LOW,0.5,OPERATIONS,"Routine claim, low risk indicators",2025-01-14
+6,6,MEDIUM,0.69,SIU,"Moderate risk, but consistent with prior claim data",2025-08-03
+7,7,LOW,0.58,OPERATIONS,"Routine claim, low risk indicators",2025-01-04
+8,8,HIGH,0.19,SIU,"High-cost or suspicious claim, requires deeper review",2025-08-05
+9,9,LOW,0.19,OPERATIONS,"Routine claim, low risk indicators",2025-06-22
+10,10,LOW,0.39,OPERATIONS,"Routine claim, low risk indicators",2025-07-03
+11,11,HIGH,0.59,SIU,"High-cost or suspicious claim, requires deeper review",2025-01-23
+12,12,MEDIUM,0.53,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-07-13
+13,13,LOW,0.31,OPERATIONS,"Routine claim, low risk indicators",2025-07-05
+14,14,MEDIUM,0.68,SIU,"Moderate risk, but consistent with prior claim data",2025-01-24
+15,15,MEDIUM,0.75,SIU,"Moderate risk, but consistent with prior claim data",2025-02-10
+16,16,HIGH,0.83,SIU,"High-cost or suspicious claim, requires deeper review",2025-07-14
+17,17,LOW,0.62,OPERATIONS,"Routine claim, low risk indicators",2025-07-06
+18,18,LOW,0.37,OPERATIONS,"Routine claim, low risk indicators",2025-05-17
+19,19,MEDIUM,0.67,SIU,"Moderate risk, but consistent with prior claim data",2025-02-06
+20,20,MEDIUM,0.2,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-05-06
+21,21,LOW,0.39,OPERATIONS,"Routine claim, low risk indicators",2025-04-23
+22,22,MEDIUM,0.81,SIU,"Moderate risk, but consistent with prior claim data",2025-01-29
+23,23,LOW,0.08,OPERATIONS,"Routine claim, low risk indicators",2025-06-11
+24,24,MEDIUM,0.11,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-06-11
+25,25,LOW,0.5,OPERATIONS,"Routine claim, low risk indicators",2025-08-23
+26,26,LOW,0.18,OPERATIONS,"Routine claim, low risk indicators",2025-05-15
+27,27,MEDIUM,0.44,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-07-24
+28,28,LOW,0.95,SIU,"Routine claim, low risk indicators",2025-03-12
+29,29,MEDIUM,0.13,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-01-25
+30,30,HIGH,0.19,SIU,"High-cost or suspicious claim, requires deeper review",2025-03-23
+31,31,HIGH,0.43,SIU,"High-cost or suspicious claim, requires deeper review",2025-02-02
+32,32,LOW,0.59,OPERATIONS,"Routine claim, low risk indicators",2025-08-28
+33,33,MEDIUM,0.92,SIU,"Moderate risk, but consistent with prior claim data",2025-01-06
+34,34,MEDIUM,0.15,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-05-17
+35,35,HIGH,0.36,SIU,"High-cost or suspicious claim, requires deeper review",2025-05-31
+36,36,MEDIUM,0.46,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-05-15
+37,37,HIGH,0.74,SIU,"High-cost or suspicious claim, requires deeper review",2025-09-17
+38,38,HIGH,0.83,SIU,"High-cost or suspicious claim, requires deeper review",2025-06-02
+39,39,HIGH,0.51,SIU,"High-cost or suspicious claim, requires deeper review",2025-04-12
+40,40,LOW,0.74,SIU,"Routine claim, low risk indicators",2025-01-01
+41,41,MEDIUM,0.49,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-02-27
+42,42,HIGH,0.84,SIU,"High-cost or suspicious claim, requires deeper review",2025-06-07
+43,43,LOW,0.27,OPERATIONS,"Routine claim, low risk indicators",2025-02-10
+44,44,LOW,0.49,OPERATIONS,"Routine claim, low risk indicators",2025-02-05
+45,45,HIGH,0.53,SIU,"High-cost or suspicious claim, requires deeper review",2025-03-06
+46,46,LOW,0.48,OPERATIONS,"Routine claim, low risk indicators",2025-03-26
+47,47,LOW,0.84,SIU,"Routine claim, low risk indicators",2025-08-05
+48,48,HIGH,0.89,SIU,"High-cost or suspicious claim, requires deeper review",2025-04-13
+49,49,MEDIUM,0.41,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-07-11
+50,50,MEDIUM,0.52,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-03-03
+51,51,LOW,0.11,OPERATIONS,"Routine claim, low risk indicators",2025-01-11
+52,52,MEDIUM,0.26,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-04-23
+53,53,LOW,0.69,SIU,"Routine claim, low risk indicators",2025-01-31
+54,54,LOW,0.86,SIU,"Routine claim, low risk indicators",2025-06-19
+55,55,LOW,0.26,OPERATIONS,"Routine claim, low risk indicators",2025-09-06
+56,56,LOW,0.17,OPERATIONS,"Routine claim, low risk indicators",2025-08-31
+57,57,LOW,0.48,OPERATIONS,"Routine claim, low risk indicators",2025-07-28
+58,58,LOW,0.14,OPERATIONS,"Routine claim, low risk indicators",2025-08-09
+59,59,LOW,0.42,OPERATIONS,"Routine claim, low risk indicators",2025-01-28
+60,60,MEDIUM,0.94,SIU,"Moderate risk, but consistent with prior claim data",2025-02-20
+61,61,LOW,0.71,SIU,"Routine claim, low risk indicators",2025-02-25
+62,62,LOW,0.22,OPERATIONS,"Routine claim, low risk indicators",2025-08-18
+63,63,LOW,0.22,OPERATIONS,"Routine claim, low risk indicators",2025-08-25
+64,64,LOW,0.88,SIU,"Routine claim, low risk indicators",2025-08-15
+65,65,HIGH,0.82,SIU,"High-cost or suspicious claim, requires deeper review",2025-02-20
+66,66,LOW,0.95,SIU,"Routine claim, low risk indicators",2025-01-08
+67,67,HIGH,0.88,SIU,"High-cost or suspicious claim, requires deeper review",2025-05-02
+68,68,LOW,0.49,OPERATIONS,"Routine claim, low risk indicators",2025-04-20
+69,69,HIGH,0.86,SIU,"High-cost or suspicious claim, requires deeper review",2025-03-26
+70,70,LOW,0.94,SIU,"Routine claim, low risk indicators",2025-05-16
+71,71,HIGH,0.76,SIU,"High-cost or suspicious claim, requires deeper review",2025-05-27
+72,72,MEDIUM,0.91,SIU,"Moderate risk, but consistent with prior claim data",2025-09-07
+73,73,LOW,0.32,OPERATIONS,"Routine claim, low risk indicators",2025-01-30
+74,74,MEDIUM,0.54,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-06-10
+75,75,LOW,0.58,OPERATIONS,"Routine claim, low risk indicators",2025-09-15
+76,76,HIGH,0.53,SIU,"High-cost or suspicious claim, requires deeper review",2025-01-30
+77,77,HIGH,0.12,SIU,"High-cost or suspicious claim, requires deeper review",2025-04-06
+78,78,LOW,0.11,OPERATIONS,"Routine claim, low risk indicators",2025-05-01
+79,79,MEDIUM,0.9,SIU,"Moderate risk, but consistent with prior claim data",2025-05-07
+80,80,MEDIUM,0.09,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-02-11
+81,81,MEDIUM,0.58,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-09-25
+82,82,LOW,0.28,OPERATIONS,"Routine claim, low risk indicators",2025-06-10
+83,83,LOW,0.41,OPERATIONS,"Routine claim, low risk indicators",2025-06-03
+84,84,MEDIUM,0.89,SIU,"Moderate risk, but consistent with prior claim data",2025-02-07
+85,85,LOW,0.61,OPERATIONS,"Routine claim, low risk indicators",2025-02-21
+86,86,LOW,0.24,OPERATIONS,"Routine claim, low risk indicators",2025-05-16
+87,87,LOW,0.36,OPERATIONS,"Routine claim, low risk indicators",2025-02-05
+88,88,HIGH,0.38,SIU,"High-cost or suspicious claim, requires deeper review",2025-03-22
+89,89,MEDIUM,0.54,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-06-04
+90,90,MEDIUM,0.94,SIU,"Moderate risk, but consistent with prior claim data",2025-09-28
+91,91,LOW,0.79,SIU,"Routine claim, low risk indicators",2025-06-03
+92,92,HIGH,0.14,SIU,"High-cost or suspicious claim, requires deeper review",2025-03-10
+93,93,LOW,0.85,SIU,"Routine claim, low risk indicators",2025-03-21
+94,94,LOW,0.59,OPERATIONS,"Routine claim, low risk indicators",2025-06-25
+95,95,LOW,0.62,OPERATIONS,"Routine claim, low risk indicators",2025-05-16
+96,96,MEDIUM,0.28,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-01-27
+97,97,LOW,0.43,OPERATIONS,"Routine claim, low risk indicators",2025-05-22
+98,98,LOW,0.35,OPERATIONS,"Routine claim, low risk indicators",2025-03-08
+99,99,MEDIUM,0.29,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-08-15
+100,100,MEDIUM,0.43,OPERATIONS,"Moderate risk, but consistent with prior claim data",2025-01-05

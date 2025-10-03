@@ -1,0 +1,201 @@
+note_id,claim_id,note_text
+1,1,Emergency contractor was called.
+2,1,Case routed to special investigations.
+3,2,Policy includes health coverage for emergency procedures.
+4,2,Successful surgery; recovery expected.
+5,3,Homeowner took photos of water damage.
+6,3,Minor scratches on rear bumper.
+7,4,Customer paid deductible promptly.
+8,4,Flood water entered basement; damaged sofa.
+9,5,Customer paid deductible promptly.
+10,5,Flood water entered basement; damaged sofa.
+11,6,Case routed to special investigations.
+12,6,Insurance adjuster noted moderate repair costs.
+13,7,Homeowner took photos of water damage.
+14,7,Follow-up therapy sessions expected.
+15,8,Patient history shows no prior claims.
+16,8,"Multiple bruises, hospital treatment required."
+17,9,Patient history shows no prior claims.
+18,9,Driver admitted distraction at stoplight.
+19,10,Follow-up therapy sessions expected.
+20,10,Customer paid deductible promptly.
+21,11,Homeowner took photos of water damage.
+22,11,Minor scratches on rear bumper.
+23,12,Ongoing treatment planned for 6 months.
+24,12,Driver admitted distraction at stoplight.
+25,13,Insurance adjuster noted moderate repair costs.
+26,13,Customer paid deductible promptly.
+27,14,Successful surgery; recovery expected.
+28,14,Ongoing treatment planned for 6 months.
+29,15,Ongoing treatment planned for 6 months.
+30,15,Flood water entered basement; damaged sofa.
+31,16,Customer paid deductible promptly.
+32,16,Emergency contractor was called.
+33,17,Follow-up therapy sessions expected.
+34,17,No injuries reported.
+35,18,Driver admitted distraction at stoplight.
+36,18,Insurance adjuster noted moderate repair costs.
+37,19,Flood water entered basement; damaged sofa.
+38,19,Customer paid deductible promptly.
+39,20,Minor scratches on rear bumper.
+40,20,Patient history shows no prior claims.
+41,21,Follow-up therapy sessions expected.
+42,21,Case routed to special investigations.
+43,22,Insurance adjuster noted moderate repair costs.
+44,22,Long hospital stay with complications.
+45,23,Long hospital stay with complications.
+46,23,"Multiple bruises, hospital treatment required."
+47,24,Customer paid deductible promptly.
+48,24,Follow-up therapy sessions expected.
+49,25,Emergency contractor was called.
+50,25,Emergency contractor was called.
+51,26,Policy includes health coverage for emergency procedures.
+52,26,No injuries reported.
+53,27,Long hospital stay with complications.
+54,27,Wind damage worsened existing issues.
+55,28,Policy includes health coverage for emergency procedures.
+56,28,Case routed to special investigations.
+57,29,Wind damage worsened existing issues.
+58,29,Emergency contractor was called.
+59,30,Paint scratches; no structural damage.
+60,30,Wind damage worsened existing issues.
+61,31,No injuries reported.
+62,31,No injuries reported.
+63,32,Policy includes health coverage for emergency procedures.
+64,32,"Multiple bruises, hospital treatment required."
+65,33,Emergency contractor was called.
+66,33,Long hospital stay with complications.
+67,34,Ongoing treatment planned for 6 months.
+68,34,"Multiple bruises, hospital treatment required."
+69,35,No injuries reported.
+70,35,Flood water entered basement; damaged sofa.
+71,36,Wind damage worsened existing issues.
+72,36,Airbags deployed; front-end completely damaged.
+73,37,Minor scratches on rear bumper.
+74,37,Customer provided receipts for replacement.
+75,38,Case routed to special investigations.
+76,38,Policy includes health coverage for emergency procedures.
+77,39,Wind damage worsened existing issues.
+78,39,Homeowner took photos of water damage.
+79,40,Customer paid deductible promptly.
+80,40,Homeowner took photos of water damage.
+81,41,"Multiple bruises, hospital treatment required."
+82,41,Policy includes health coverage for emergency procedures.
+83,42,Minor scratches on rear bumper.
+84,42,Follow-up therapy sessions expected.
+85,43,Flood water entered basement; damaged sofa.
+86,43,Emergency contractor was called.
+87,44,Follow-up therapy sessions expected.
+88,44,Case routed to special investigations.
+89,45,Airbags deployed; front-end completely damaged.
+90,45,Customer paid deductible promptly.
+91,46,Customer paid deductible promptly.
+92,46,Homeowner took photos of water damage.
+93,47,Follow-up therapy sessions expected.
+94,47,Long hospital stay with complications.
+95,48,Long hospital stay with complications.
+96,48,Paint scratches; no structural damage.
+97,49,Insurance adjuster noted moderate repair costs.
+98,49,"Multiple bruises, hospital treatment required."
+99,50,Long hospital stay with complications.
+100,50,Wind damage worsened existing issues.
+101,51,Emergency contractor was called.
+102,51,Policy includes health coverage for emergency procedures.
+103,52,Airbags deployed; front-end completely damaged.
+104,52,Flood water entered basement; damaged sofa.
+105,53,Customer provided receipts for replacement.
+106,53,Emergency contractor was called.
+107,54,No injuries reported.
+108,54,"Multiple bruises, hospital treatment required."
+109,55,Homeowner took photos of water damage.
+110,55,Customer paid deductible promptly.
+111,56,Homeowner took photos of water damage.
+112,56,Minor scratches on rear bumper.
+113,57,Minor scratches on rear bumper.
+114,57,Case routed to special investigations.
+115,58,Emergency contractor was called.
+116,58,Paint scratches; no structural damage.
+117,59,Patient history shows no prior claims.
+118,59,Follow-up therapy sessions expected.
+119,60,Driver admitted distraction at stoplight.
+120,60,Flood water entered basement; damaged sofa.
+121,61,Follow-up therapy sessions expected.
+122,61,Follow-up therapy sessions expected.
+123,62,No injuries reported.
+124,62,Emergency contractor was called.
+125,63,Case routed to special investigations.
+126,63,No injuries reported.
+127,64,Patient history shows no prior claims.
+128,64,Insurance adjuster noted moderate repair costs.
+129,65,Policy includes health coverage for emergency procedures.
+130,65,Paint scratches; no structural damage.
+131,66,Driver admitted distraction at stoplight.
+132,66,Airbags deployed; front-end completely damaged.
+133,67,Driver admitted distraction at stoplight.
+134,67,Minor scratches on rear bumper.
+135,68,Minor scratches on rear bumper.
+136,68,"Multiple bruises, hospital treatment required."
+137,69,Long hospital stay with complications.
+138,69,Policy includes health coverage for emergency procedures.
+139,70,"Multiple bruises, hospital treatment required."
+140,70,Homeowner took photos of water damage.
+141,71,Case routed to special investigations.
+142,71,Customer provided receipts for replacement.
+143,72,Case routed to special investigations.
+144,72,Ongoing treatment planned for 6 months.
+145,73,Airbags deployed; front-end completely damaged.
+146,73,"Multiple bruises, hospital treatment required."
+147,74,Long hospital stay with complications.
+148,74,Ongoing treatment planned for 6 months.
+149,75,Customer provided receipts for replacement.
+150,75,Customer paid deductible promptly.
+151,76,Patient history shows no prior claims.
+152,76,Customer paid deductible promptly.
+153,77,Driver admitted distraction at stoplight.
+154,77,No injuries reported.
+155,78,Patient history shows no prior claims.
+156,78,"Multiple bruises, hospital treatment required."
+157,79,Case routed to special investigations.
+158,79,Successful surgery; recovery expected.
+159,80,Policy includes health coverage for emergency procedures.
+160,80,Customer paid deductible promptly.
+161,81,Case routed to special investigations.
+162,81,"Multiple bruises, hospital treatment required."
+163,82,"Multiple bruises, hospital treatment required."
+164,82,Wind damage worsened existing issues.
+165,83,Minor scratches on rear bumper.
+166,83,Wind damage worsened existing issues.
+167,84,Paint scratches; no structural damage.
+168,84,Long hospital stay with complications.
+169,85,Paint scratches; no structural damage.
+170,85,Insurance adjuster noted moderate repair costs.
+171,86,Long hospital stay with complications.
+172,86,Patient history shows no prior claims.
+173,87,Wind damage worsened existing issues.
+174,87,Homeowner took photos of water damage.
+175,88,Paint scratches; no structural damage.
+176,88,Customer paid deductible promptly.
+177,89,Flood water entered basement; damaged sofa.
+178,89,Homeowner took photos of water damage.
+179,90,Driver admitted distraction at stoplight.
+180,90,Insurance adjuster noted moderate repair costs.
+181,91,Flood water entered basement; damaged sofa.
+182,91,No injuries reported.
+183,92,Ongoing treatment planned for 6 months.
+184,92,Driver admitted distraction at stoplight.
+185,93,Customer provided receipts for replacement.
+186,93,Ongoing treatment planned for 6 months.
+187,94,No injuries reported.
+188,94,Wind damage worsened existing issues.
+189,95,No injuries reported.
+190,95,Ongoing treatment planned for 6 months.
+191,96,Homeowner took photos of water damage.
+192,96,Emergency contractor was called.
+193,97,Patient history shows no prior claims.
+194,97,Successful surgery; recovery expected.
+195,98,Successful surgery; recovery expected.
+196,98,No injuries reported.
+197,99,"Multiple bruises, hospital treatment required."
+198,99,Wind damage worsened existing issues.
+199,100,Follow-up therapy sessions expected.
+200,100,Driver admitted distraction at stoplight.

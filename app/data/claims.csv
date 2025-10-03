@@ -1,0 +1,101 @@
+claim_id,policy_id,date_of_loss,description,amount_claimed,status
+1,1,2025-04-16,"Two-car accident at intersection, airbags deployed",32180.64,OPEN
+2,1,2025-02-03,"Two-car accident at intersection, airbags deployed",11757.87,CLOSED
+3,2,2025-08-14,Kitchen fire; smoke and cabinet damage,16805.02,OPEN
+4,2,2025-06-03,Hospitalization for knee replacement surgery,23116.76,OPEN
+5,3,2025-08-18,"Single-car rollover on highway, moderate injuries",9123.39,OPEN
+6,3,2025-05-20,"Fender-bender in parking lot, scratches and dents",15420.35,CLOSED
+7,4,2025-01-23,Maternity hospitalization,19892.57,CLOSED
+8,4,2025-06-21,Storm damaged roof shingles and broken windows,16567.9,CLOSED
+9,5,2025-03-06,Storm damaged roof shingles and broken windows,23653.71,CLOSED
+10,5,2025-02-10,Maternity hospitalization,4954.71,CLOSED
+11,6,2025-03-01,"Fender-bender in parking lot, scratches and dents",9996.53,CLOSED
+12,6,2025-05-04,Minor fender-bender at traffic light,38434.25,CLOSED
+13,7,2025-05-11,Broken arm after skiing accident,4477.95,OPEN
+14,7,2025-09-06,Basement flooding after heavy rain; furniture damaged,30820.83,OPEN
+15,8,2025-09-13,Hospitalization for knee replacement surgery,7385.52,CLOSED
+16,8,2025-02-07,ER visit for wrist fracture after a fall,16413.89,OPEN
+17,9,2025-03-10,Maternity hospitalization,5069.59,CLOSED
+18,9,2025-05-19,Slip and fall at grocery store,33695.24,OPEN
+19,10,2025-04-16,"Rear-end collision on freeway; bumper damage, possible whiplash",10091.79,OPEN
+20,10,2025-08-05,"Cancer treatment, chemotherapy sessions",1783.23,OPEN
+21,11,2025-04-26,ER visit for wrist fracture after a fall,28899.47,OPEN
+22,11,2025-02-17,Auto theft; vehicle not recovered,19570.47,CLOSED
+23,12,2025-07-01,"Cancer treatment, chemotherapy sessions",17499.95,CLOSED
+24,12,2025-09-17,Hospitalization for knee replacement surgery,3637.37,OPEN
+25,13,2025-07-02,Pneumonia hospitalization,25617.33,OPEN
+26,13,2025-08-02,Windshield cracked by flying debris,7983.0,OPEN
+27,14,2025-07-02,Hospitalization for knee replacement surgery,2536.11,CLOSED
+28,14,2025-02-21,"Cancer treatment, chemotherapy sessions",21672.71,CLOSED
+29,15,2025-03-04,Broken arm after skiing accident,22505.51,OPEN
+30,15,2025-04-09,Kitchen fire; smoke and cabinet damage,26929.11,CLOSED
+31,16,2025-07-13,Maternity hospitalization,21688.44,OPEN
+32,16,2025-08-12,Kitchen fire; smoke and cabinet damage,11286.7,CLOSED
+33,17,2025-03-06,Broken arm after skiing accident,24428.6,CLOSED
+34,17,2025-05-20,Pneumonia hospitalization,38492.95,CLOSED
+35,18,2025-09-21,"Rear-end collision on freeway; bumper damage, possible whiplash",19753.39,CLOSED
+36,18,2025-03-18,Roof leak after storm,1444.09,CLOSED
+37,19,2025-08-26,Pneumonia hospitalization,16882.07,CLOSED
+38,19,2025-04-11,"Cancer treatment, chemotherapy sessions",39038.15,OPEN
+39,20,2025-09-27,Kitchen fire; smoke and cabinet damage,2255.72,CLOSED
+40,20,2025-01-21,Pneumonia hospitalization,6098.96,CLOSED
+41,21,2025-04-17,Maternity hospitalization,16735.08,OPEN
+42,21,2025-06-27,Basement flooding after heavy rain; furniture damaged,33594.96,OPEN
+43,22,2025-08-10,Pneumonia hospitalization,1910.35,CLOSED
+44,22,2025-04-13,Hospitalization for appendix surgery,33376.89,OPEN
+45,23,2025-01-27,Windshield cracked by flying debris,29332.14,CLOSED
+46,23,2025-06-13,Storm damaged roof shingles and broken windows,39949.87,CLOSED
+47,24,2025-07-17,"Two-car accident at intersection, airbags deployed",25042.15,CLOSED
+48,24,2025-05-18,Basement flooding after heavy rain; furniture damaged,38005.42,OPEN
+49,25,2025-06-10,Pneumonia hospitalization,37989.15,CLOSED
+50,25,2025-09-13,Roof leak after storm,8663.75,OPEN
+51,26,2025-06-13,Hospitalization for knee replacement surgery,24872.99,CLOSED
+52,26,2025-05-27,"Fender-bender in parking lot, scratches and dents",38740.67,CLOSED
+53,27,2025-08-16,Hospitalization for appendix surgery,27436.05,CLOSED
+54,27,2025-09-13,Emergency surgery following heart attack,1069.25,CLOSED
+55,28,2025-04-28,Broken arm after skiing accident,14149.52,CLOSED
+56,28,2025-06-10,Kitchen fire; smoke and cabinet damage,14532.74,OPEN
+57,29,2025-05-28,Kitchen fire; smoke and cabinet damage,39492.0,OPEN
+58,29,2025-06-22,Auto theft; vehicle not recovered,9596.47,OPEN
+59,30,2025-06-20,Minor fender-bender at traffic light,22517.38,CLOSED
+60,30,2025-08-26,Minor fender-bender at traffic light,1280.81,OPEN
+61,31,2025-03-28,Roof leak after storm,38777.39,OPEN
+62,31,2025-08-17,Windshield cracked by flying debris,12205.98,CLOSED
+63,32,2025-08-10,Windshield cracked by flying debris,12098.99,OPEN
+64,32,2025-08-03,"Two-car accident at intersection, airbags deployed",32476.84,CLOSED
+65,33,2025-04-20,Roof leak after storm,24584.4,OPEN
+66,33,2025-08-07,Roof leak after storm,11690.19,OPEN
+67,34,2025-09-11,Hospitalization for appendix surgery,8517.59,OPEN
+68,34,2025-01-03,Auto theft; vehicle not recovered,26800.57,OPEN
+69,35,2025-08-12,Windshield cracked by flying debris,5278.09,OPEN
+70,35,2025-03-14,Roof leak after storm,28135.53,CLOSED
+71,36,2025-05-01,Kitchen fire; smoke and cabinet damage,39055.44,OPEN
+72,36,2025-03-07,Storm damaged roof shingles and broken windows,5061.19,CLOSED
+73,37,2025-05-03,Minor fender-bender at traffic light,32929.27,CLOSED
+74,37,2025-04-17,"Fender-bender in parking lot, scratches and dents",11558.24,OPEN
+75,38,2025-06-22,Auto theft; vehicle not recovered,13461.18,OPEN
+76,38,2025-05-13,Basement flooding after heavy rain; furniture damaged,24268.76,OPEN
+77,39,2025-04-09,"Cancer treatment, chemotherapy sessions",33516.4,OPEN
+78,39,2025-07-21,ER visit for wrist fracture after a fall,25778.87,CLOSED
+79,40,2025-07-16,Maternity hospitalization,12299.73,OPEN
+80,40,2025-06-23,Basement flooding after heavy rain; furniture damaged,25531.06,OPEN
+81,41,2025-02-12,Hospitalization for knee replacement surgery,7372.36,CLOSED
+82,41,2025-09-16,Minor fender-bender at traffic light,4056.36,OPEN
+83,42,2025-07-25,Storm damaged roof shingles and broken windows,11457.71,OPEN
+84,42,2025-02-24,"Fender-bender in parking lot, scratches and dents",35403.36,CLOSED
+85,43,2025-02-02,"Fender-bender in parking lot, scratches and dents",7185.3,CLOSED
+86,43,2025-03-01,Kitchen fire; smoke and cabinet damage,8631.36,CLOSED
+87,44,2025-04-18,Storm damaged roof shingles and broken windows,32659.43,OPEN
+88,44,2025-04-02,"Two-car accident at intersection, airbags deployed",31561.98,OPEN
+89,45,2025-01-16,Hospitalization for knee replacement surgery,23870.54,OPEN
+90,45,2025-08-23,Kitchen fire; smoke and cabinet damage,38244.85,OPEN
+91,46,2025-02-27,Slip and fall at grocery store,20205.71,OPEN
+92,46,2025-04-01,Roof leak after storm,13885.62,OPEN
+93,47,2025-06-09,Minor fender-bender at traffic light,17080.26,OPEN
+94,47,2025-06-22,"Fender-bender in parking lot, scratches and dents",18540.17,CLOSED
+95,48,2025-03-13,Slip and fall at grocery store,37592.9,OPEN
+96,48,2025-08-05,Broken arm after skiing accident,28798.16,OPEN
+97,49,2025-04-14,Emergency surgery following heart attack,8311.77,CLOSED
+98,49,2025-05-18,Basement flooding after heavy rain; furniture damaged,11151.69,OPEN
+99,50,2025-03-05,Kitchen fire; smoke and cabinet damage,9423.08,OPEN
+100,50,2025-09-24,Broken arm after skiing accident,15582.72,OPEN
