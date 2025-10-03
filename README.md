@@ -37,4 +37,7 @@ streamlit run app/streamlit_app.py
 
 ![Claims Processing Flow](img/Flow.png)
 
+
+# Demo
+![Insurance_Triage](img/demosK.webm)
 See `demo_script.md` for a ≤5 min walkthrough.
