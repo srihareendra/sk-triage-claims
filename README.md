@@ -37,7 +37,11 @@ streamlit run app/streamlit_app.py
 
 ![Claims Processing Flow](img/Flow.png)
 
+## Demo
 
-# Demo
-![Insurance_Triage](img/demosK.webm)
+<video src="img/demosK.webm" controls="controls" width="600">
+  Your browser does not support the video tag.  
+  [Watch the demo](https://github.com/srihareendra/sk-triage-claims/blob/main/img/demosK.webm?raw=true)
+</video>
+
 See `demo_script.md` for a ≤5 min walkthrough.
